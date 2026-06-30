@@ -1,6 +1,6 @@
-# 🏢 WebStudio Corporate Landing Page
+# 🏢 WebStudio Landing Page
 
-A modern and fully responsive corporate landing page for a web development studio. Built to practice semantic markup, responsive layout techniques, and UI component testing.
+A modern and fully responsive landing page for a web development studio. Built to practice semantic markup, responsive layout techniques, and UI component testing.
 
 ---
 
